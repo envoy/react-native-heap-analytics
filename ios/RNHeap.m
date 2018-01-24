@@ -8,7 +8,7 @@
 
 
 #import "RNHeap.h"
-#import "Heap.h"
+#import <Heap/Heap.h>
 
 
 @implementation RNHeap
